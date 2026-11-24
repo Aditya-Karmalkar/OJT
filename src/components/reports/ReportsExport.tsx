@@ -295,7 +295,7 @@ export const ReportsExport: React.FC = () => {
         {/* Document Header */}
         <div className="border-b border-slate-200 pb-5 flex flex-wrap items-start justify-between gap-4">
           <div>
-            <div className="text-xs font-bold text-brand-600">Gran Asia Life Sciences LLP</div>
+            <div className="text-xs font-bold text-brand-600">Visiontech ventures LLP</div>
             <h1 className="text-xl md:text-2xl font-black text-slate-900 mt-1">
               {reportTypes.find(r => r.id === activeReport)?.title}
             </h1>
@@ -624,7 +624,7 @@ export const ReportsExport: React.FC = () => {
         {/* Audit Signoff Footer */}
         <div className="pt-6 border-t border-slate-200 flex flex-wrap items-center justify-between text-xs text-slate-400 gap-4 avoid-break">
           <div>
-            <div>Gran Asia Life Sciences LLP, Pune Business Intelligence Unit</div>
+            <div>Visiontech ventures LLP, Pune Business Intelligence Unit</div>
             <div className="text-[10px]">Extracted from verified accounting system (Tally/ERP). Taxable value represents official corporate revenue.</div>
           </div>
           <div className="text-right">

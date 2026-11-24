@@ -47,7 +47,7 @@ export const Header: React.FC = () => {
 
         <div>
           <div className="text-sm font-extrabold text-slate-900 tracking-tight leading-snug">
-            Gran Asia Life Sciences
+            Visiontech ventures
           </div>
           <div className="text-xs text-slate-500 font-medium">
             Executive sales & revenue growth analytics

@@ -1,5 +1,5 @@
 # Sales Performance & Revenue Growth Analytics Platform
-### Gran Asia Life Sciences LLP, Pune · Power BI Architecture
+### Visiontech ventures LLP, Pune · Power BI Architecture
 
 [![Vercel Deployment](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![React 18](https://img.shields.io/badge/React-18.3-blue?style=for-the-badge&logo=react)](https://react.dev)
@@ -7,7 +7,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646cff?style=for-the-badge&logo=vite)](https://vitejs.dev)
 
-A modern, executive-grade Business Intelligence (BI) web platform titled **"Sales Performance & Revenue Growth Analytics Using Power BI – Gran Asia Life Sciences LLP, Pune"**. Designed to provide senior leadership with instant visibility into commercial performance, customer revenue concentration, multi-year sales velocity, automated audit observations, and statutory tax compliance.
+A modern, executive-grade Business Intelligence (BI) web platform titled **"Sales Performance & Revenue Growth Analytics Using Power BI – Visiontech ventures LLP, Pune"**. Designed to provide senior leadership with instant visibility into commercial performance, customer revenue concentration, multi-year sales velocity, automated audit observations, and statutory tax compliance.
 
 The platform combines the analytical depth and visual sophistication of **Microsoft Power BI** with the responsiveness, clean typography, and fluid interactivity of modern enterprise SaaS applications (inspired by Stripe Analytics and AlignUI).
 
@@ -222,5 +222,5 @@ When uploading custom or updated sales ledgers (`.xlsx`, `.xls`, `.csv`), the wo
 
 ---
 
-**Developed for Gran Asia Life Sciences LLP, Pune**  
+**Developed for Visiontech ventures LLP, Pune**  
 *Business Intelligence, Revenue Analytics & Executive Decision Support System*

@@ -134,7 +134,7 @@ export function exportComprehensiveBIExcel(
 
   // 1. KPI Summary Sheet
   const kpiRows = [
-    { 'Executive Summary Metric': 'Company Name', 'Reported Value': 'Gran Asia Life Sciences LLP, Pune' },
+    { 'Executive Summary Metric': 'Company Name', 'Reported Value': 'Visiontech ventures LLP, Pune' },
     { 'Executive Summary Metric': 'Report Title', 'Reported Value': 'Sales Performance & Revenue Growth Analytics Report' },
     { 'Executive Summary Metric': 'Audit Status', 'Reported Value': 'Verified Against Official ERP/Tally Ledger' },
     { 'Executive Summary Metric': 'Generated On', 'Reported Value': new Date().toLocaleString('en-IN') },
@@ -274,7 +274,7 @@ export function exportExecutivePDF(
   doc.setTextColor(255, 255, 255);
   doc.setFont('helvetica', 'bold');
   doc.setFontSize(14);
-  doc.text('GRAN ASIA LIFE SCIENCES LLP, PUNE', 14, 12);
+  doc.text('Visiontech ventures LLP, PUNE', 14, 12);
 
   doc.setFontSize(9);
   doc.setFont('helvetica', 'normal');
@@ -569,7 +569,7 @@ export function exportExecutivePDF(
     doc.setFontSize(7.5);
     doc.setFont('helvetica', 'normal');
     doc.setTextColor(148, 163, 184);
-    doc.text('Gran Asia Life Sciences LLP, Pune · Official Sales Performance & Revenue Analytics Ledger', 14, 288);
+    doc.text('Visiontech ventures LLP, Pune · Official Sales Performance & Revenue Analytics Ledger', 14, 288);
     doc.text(`Page ${p} of ${pageCount}`, pageWidth - 26, 288);
   }
 
